@@ -3,3 +3,4 @@ Git is a distributed version control system.
 It is free for everyone like mi band.
 Hello, thank you, and how are you?
 没有什么可写的，加一行中文试试。
+平静的生活。
